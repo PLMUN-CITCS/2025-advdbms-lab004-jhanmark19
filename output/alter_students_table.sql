@@ -1,4 +1,4 @@
 Use `UniversityDB`;
 
 ALTER TABLE `Students`
-ADD COLUMN `Email` VARCHAR(100) UNIQUE;
+ADD `Email` VARCHAR(100);
