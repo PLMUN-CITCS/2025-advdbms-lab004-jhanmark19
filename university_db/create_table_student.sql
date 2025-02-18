@@ -1,4 +1,4 @@
-USE `UniversityDB`;
+Use `UniversityDB`;
 
 CREATE TABLE `Students` (
    `StudentID` INT PRIMARY KEY AUTO_INCREMENT,
